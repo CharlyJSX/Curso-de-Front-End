@@ -1,0 +1,67 @@
+/*.color1 {color: #121c24;}
+.color2 {color: #12467d;}
+.color3 {color: #20b8d8;}
+.color4 {color: #20dbb5;}
+.color5 {color: #f4eb99;}*/
+
+*{
+	margin: auto; /**/
+	padding: auto;
+}
+#principal{
+	width: 900px;
+	height: 1200px;
+	background: blue;
+}
+#rectangulo{
+	height: 80px;
+	width: 900px;
+	background: transparent;
+	position: fixed;
+
+}
+#logo{
+	margin: 10px;
+	height: 60px;
+	width: 250px;
+	margin-left: ;
+	float: left;
+	background: green;
+}
+
+#menu{
+	margin: 10px;
+	height: 60px;
+	width: 500px;
+	margin-left: ;
+	float: right;
+	background: green;
+}
+
+li{
+	float: left;
+	text-decoration: none;
+}
+a{
+	padding: 5px;
+	text-decoration: none;
+}
+
+#header{
+	width: 900px;
+	height: 300px;
+	background: red;
+}
+
+#main{
+	width: 900px;
+	height: 900px;
+	background: hotpink;
+
+}
+#pie{
+	width: 900px;
+	height: 300px;
+	background: black;
+
+}
