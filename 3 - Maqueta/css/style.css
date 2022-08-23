@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+	margin: 0;
+
+	/* .color1 {color: #001f47;}
+.color2 {color: #004291;}
+.color3 {color: #00a2ff;}
+.color4 {color: #00ffff;}
+.color5 {color: #b9ffff;}
+
+*/ 
+}
+
+#base{
+	width:1200px; 
+	height:1150px;
+	border: 1px solid;
+	background:  #F3F2F1;
+	margin: auto;
+}
+
+#header{
+	width: 1150px;
+	height: 150px;
+	border: 1px solid;
+	border-radius: 10px;
+	background: #FF3645;
+	margin-top: 20px;
+	margin-left:22px;
+}
+
+#logo{
+	width:130px; 
+	height:130px;
+	border:1px solid;
+	border-radius: 50%;
+	background: #ffffff;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+#eslogan{
+	width: 815px; 
+	height:130px;
+	border:1px solid;
+	border-radius: 10px;
+	background: #ffffff;
+	float: right;
+	margin-top: -132px;
+	margin-right: 100px;
+}
+
+#nav{
+	width: 1150px;
+	height: 100px;
+	border: 1px solid;
+	border-radius: 10px;
+	background:#353131;
+	margin-top: 10px;
+	margin-left: 22px;
+}
+
+#main{
+	width: 1150px;
+	height: 680px;
+	border:1px solid;
+	border-radius: 10px;
+	background: ;
+    margin-left: 22px;
+    margin-top: 10px;
+
+}
+
+.catalogo{
+	width: 285px;
+	height: 209px;
+	border:1px solid;
+	border-radius: 10px;
+	background: #FF3645;
+	margin-left: 70px;
+	margin-top: 10px;
+	float: left;
+	
+}
+
+#footer{
+	width: 1150px;
+	height: 100px;
+	border: 1px solid;
+	border-radius: 10px;
+	background:#353131;
+	margin-top: 28px;
+	margin-left: 22px;
+}
