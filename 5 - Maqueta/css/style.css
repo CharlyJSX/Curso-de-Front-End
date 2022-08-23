@@ -1,0 +1,99 @@
+#contenido{
+	width: 925px; margin: 0% auto;
+	background-color: #02b87bfd;
+}
+
+#principal{
+	width: 900px; margin: 0 auto;
+	height: 1200;
+	border: 0px solid;
+	margin: 12px;
+}
+
+#header{
+	width: 890px; 
+	height: 100px;
+	border-bottom: 0px solid #ff5577;
+}
+
+#logo{
+	margin-top: 05;
+	height: 10px;
+	float: left;
+	font-family: Georgia, `Times Nes Roman´, serif;
+}
+
+.titulo{
+	marker-top: 6px;
+	font-size: 25px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+.menu{
+	width: 310px; 
+	height: 40px;
+	border: 1px solid #cbda03;
+	float: right;
+	margin-top: 5px;
+	background: #01323b;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+}
+
+.menu ul li a{
+	text-decoration: #ee6699;
+	padding: 1px;
+	border-radius: 0px solid #0026808a;
+	color: #0a62aadc;
+	margin-right: 30px;
+}
+
+.menu ul li a:hover{
+	background: #088fb194;
+	color: #15e426c0;
+	transition:  background 1s, color 1s;
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 0px;
+}
+
+.uno{
+	width: 500px;
+	height: 486px;
+	border: 0px solid #03441c;
+	float: left;
+	padding: 60px;
+	text-align: justify;
+	color: #000000;
+	background: #028635;
+}
+
+h2{
+	text-align: center;
+}
+
+.art{
+	width: 160px;
+	height: 486px;
+	border: 0px solid #01441c;
+	float: right;
+	padding: 60px;
+	color: #072d52;
+	background: #028635;
+}
+
+
+
