@@ -1,0 +1,86 @@
+*{
+    padding: 2px;
+    margin: 2px auto;
+}
+
+#contenedor{
+    width: 740px;
+    height: 750px;
+    border: red solid;
+}
+
+#header{
+    width: 716px;
+    height: 250px;
+    border: #0000ff solid;
+    padding: 4px;
+    margin: 4px;
+}
+
+#banner{
+    width: 445px;
+    height: 235px;
+    border: greenyellow  solid;
+    float: left;
+    margin: 4px;
+}
+
+#logo{
+    width: 235px;
+    height: 110px;
+    border: greenyellow solid;
+    float: left;
+}
+
+#login{
+    width: 235px;
+    height: 110px;
+    border: greenyellow solid;
+    float: left;
+}
+
+#nav{
+    width: 723px;
+    height: 20px;
+    border: blue solid;
+    margin: auto;
+    padding: 0;
+}
+
+#main{
+    width: 716px;
+    height: 390px;
+    border: blue solid;
+    margin: 6px;
+}
+
+.aside-left{
+    width: 150px;
+    height: 370px;
+    border: greenyellow solid;
+    float: left;
+    margin: 6px;
+}
+
+.article{
+    width: 340px;
+    height: 370px;
+    border: greenyellow solid;
+    float: left;
+    margin: 6px;
+}
+
+.aside-rigth{
+    width: 150px;
+    height: 370px;
+    border: greenyellow solid;
+    float: left;
+    margin: 6px;
+}
+
+#footer{
+    width: 715px;
+    height: 17px;
+    border: blue solid;
+    padding: px;
+}
